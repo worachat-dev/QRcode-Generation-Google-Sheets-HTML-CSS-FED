@@ -74,14 +74,14 @@ For any inquiries or issues, please contact me!
 - **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*  
   [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ### Notes
 
 - Ensure that the URLs or text entered into the Google Sheets begin with "http://" or "https://" to generate valid QR codes.
 - The QR codes can be resized by adjusting the row height in Google Sheets or by modifying the image dimensions in the exported HTML.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
