@@ -1,6 +1,6 @@
 ---
 
-# QRcode Generation in Google Sheets with HTML and CSS Export
+# QR code Generation in Google Sheets with HTML and CSS Export
 
 ## Overview
 
