@@ -57,18 +57,13 @@ Here’s an example of how to use the generated QR codes:
 </table>
 ```
 
-### Notes
+## Screenshots
 
-- Ensure that the URLs or text entered into the Google Sheets begin with "http://" or "https://" to generate valid QR codes.
-- The QR codes can be resized by adjusting the row height in Google Sheets or by modifying the image dimensions in the exported HTML.
+![QRcode Generation](./image.png)
 
 ## Contributing
 
 If you wish to contribute to this project, please fork the repository and submit a pull request.
-
-## Screenshots
-
-![QRcode Generation](./image.png)
 
 ## Contact
 
@@ -78,6 +73,11 @@ For any inquiries or issues, please contact me!
 
 - **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*  
   [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
+
+### Notes
+
+- Ensure that the URLs or text entered into the Google Sheets begin with "http://" or "https://" to generate valid QR codes.
+- The QR codes can be resized by adjusting the row height in Google Sheets or by modifying the image dimensions in the exported HTML.
 
 ## License
 
