@@ -1,8 +1,6 @@
-To generate a `README.md` for the project that involves QR code generation using Google Sheets, HTML, and CSS, I'll structure the documentation to explain the project's purpose, setup, and usage. Here’s a draft for the `README.md`:
-
 ---
 
-# My-Product02 - QR Code Generation and Export
+# QRcode Generation in Google Sheets with HTML and CSS Export
 
 ## Overview
 
@@ -68,10 +66,22 @@ Here’s an example of how to use the generated QR codes:
 
 If you wish to contribute to this project, please fork the repository and submit a pull request.
 
+## Screenshots
+
+![QRcode Generation](./image.png)
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or issues, please contact me!
+
+## Author
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*  
+  [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
 
 ---
 
-Let me know if you need any further modifications or additions!
